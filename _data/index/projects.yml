@@ -1,0 +1,28 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Warning System for Drivers with Object and Facial Expression Detection
+  gh_user: RohanDeo18
+  repo: CMU-Summer-Intership-Project
+  img: /static/assets/img/landing/warning_sys.png
+  desc: Creating road safety by using a combination of emotion and drowsiness detection along with object detection
+
+- name: Automated Waste Segregation using Robotic Arm
+  gh_user: RohanDeo18
+  repo: Bachelor-s-Thesis
+  img: /static/assets/img/landing/be_proj.png
+  desc: A way of automated separation of solid waste using a custom-made robotic arm
+
+- name: Fire Detection and Intensity
+  gh_user: RohanDeo18
+  repo:
+  img: /static/assets/img/landing/fire.jpg
+  desc: Establish a Flame Color Feature Model to detect fire and report its intensity
+
+- name: Rainfall Prediction in Australia
+  gh_user: RohanDeo18
+  repo: SmartKnower-ML-DS
+  img: /static/assets/img/landing/rain1.jpg
+  desc: A comparative study of ML models to forecast rainfall in Australia
+
+
